@@ -1,2 +1,2 @@
 # blooket-hacks
-some hacks
+these are some blooket hacks.
